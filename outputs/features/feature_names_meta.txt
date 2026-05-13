@@ -1,0 +1,115 @@
+log_price
+log_achievements
+log_dlc_count
+is_free
+has_dlc
+has_achievements
+game_age
+required_age
+n_platforms
+short_desc_words
+log_detail_words
+has_description
+log_n_languages
+log_n_audio
+has_english
+has_chinese
+has_japanese
+has_full_audio
+max_dev_games
+max_pub_games
+is_top50_dev
+is_top50_pub
+log_n_devs
+log_n_pubs
+genre_360 Video
+genre_Accounting
+genre_Action
+genre_Adventure
+genre_Animation & Modeling
+genre_Audio Production
+genre_Casual
+genre_Design & Illustration
+genre_Documentary
+genre_Early Access
+genre_Education
+genre_Episodic
+genre_Free To Play
+genre_Game Development
+genre_Gore
+genre_Indie
+genre_Massively Multiplayer
+genre_Movie
+genre_Nudity
+genre_Photo Editing
+genre_RPG
+genre_Racing
+genre_Sexual Content
+genre_Short
+genre_Simulation
+genre_Software Training
+genre_Sports
+genre_Strategy
+genre_Tutorial
+genre_Utilities
+genre_Video Production
+genre_Violent
+genre_Web Publishing
+category_Adjustable Difficulty
+category_Adjustable Text Size
+category_Camera Comfort
+category_Captions available
+category_Chat Speech-to-text
+category_Chat Text-to-speech
+category_Co-op
+category_Color Alternatives
+category_Commentary available
+category_Cross-Platform Multiplayer
+category_Custom Volume Controls
+category_Family Sharing
+category_Full controller support
+category_HDR available
+category_In-App Purchases
+category_Includes Source SDK
+category_Includes level editor
+category_Keyboard Only Option
+category_LAN Co-op
+category_LAN PvP
+category_MMO
+category_Mods
+category_Mods (require HL2)
+category_Mouse Only Option
+category_Multi-player
+category_Narrated Game Menus
+category_Online Co-op
+category_Online PvP
+category_Partial Controller Support
+category_Playable without Timed Input
+category_PvP
+category_Remote Play Together
+category_Remote Play on Phone
+category_Remote Play on TV
+category_Remote Play on Tablet
+category_Save Anytime
+category_Shared/Split Screen
+category_Shared/Split Screen Co-op
+category_Shared/Split Screen PvP
+category_Single-player
+category_Stats
+category_Steam Achievements
+category_Steam Cloud
+category_Steam Leaderboards
+category_Steam Timeline
+category_Steam Trading Cards
+category_Steam Turn Notifications
+category_Steam Workshop
+category_SteamVR Collectibles
+category_Stereo Sound
+category_Subtitle Options
+category_Surround Sound
+category_Touch Only Option
+category_Tracked Controller Support
+category_VR Only
+category_VR Support
+category_VR Supported
+category_Valve Anti-Cheat enabled
